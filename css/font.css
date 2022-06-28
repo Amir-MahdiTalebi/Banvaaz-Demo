@@ -1,0 +1,21 @@
+/* Vazirmatn */
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 400;
+  src: url('../assets/fonts/Persian/Vazirmatn-Regular.ttf');
+}
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 500;
+  src: url('../assets/fonts/Persian/Vazirmatn-Medium.ttf');
+}
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 700;
+  src: url('../assets/fonts/Persian/Vazirmatn-Bold.ttf');
+}
+
+/* Font Family */
+body{
+  font-family: 'Vazirmatn';
+}
